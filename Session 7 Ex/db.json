@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Rim",
+      "contactno": 444455667788,
+      "email": "rim@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "contactno": 554455667788,
+      "email": "kim@gmail.com"
+    },
+    {
+      "name": "sin",
+      "contactno": "34534",
+      "email": "asfad@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sin",
+      "contactno": "34534",
+      "email": "asfad@gmail.com",
+      "id": 4
+    }
+  ]
+}

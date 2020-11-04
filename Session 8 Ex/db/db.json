@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "Test",
+      "contactno": "5678888",
+      "email": "test@yahoo.com",
+      "id": 3
+    },
+    {
+      "name": "sin",
+      "contactno": "34534",
+      "email": "asfad@gmail.com",
+      "id": 4
+    }
+  ]
+}
